@@ -1,1 +1,1 @@
-
+## Here is the error analysis of the Multimodal baselines like Visual BERT COCO and ViLBERT CC using the most confidently predicted False positives, False negatives, Confusion Matrix and other metrics.
